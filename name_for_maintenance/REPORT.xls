@@ -1,0 +1,475 @@
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+
+xmlns="http://www.w3.org/TR/REC-html40">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-874" />
+
+<title>REPOER</title>
+</head>
+
+<body>
+<table width="731" border="1" align="center">
+  <tr align="center">
+    <td bgcolor="#CCCC99">ro</td>
+    <td bgcolor="#CCCC99">Zone</td>
+    <td  bgcolor="#CCCC99">province</td>
+    <td  bgcolor="#CCCC99">IP</td>
+    <td  bgcolor="#CCCC99">Node Name </td>
+
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.150.12</td>
+    <td bgcolor="#FFFFCC">  H4080-94_V764</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.71</td>
+    <td bgcolor="#FFFFCC">  HC4001-52_V1340</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.143</td>
+    <td bgcolor="#FFFFCC">  HC4034-51_V1656</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.210.244</td>
+    <td bgcolor="#FFFFCC">  HV4031-23R_V164</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.9</td>
+    <td bgcolor="#FFFFCC">  H4033-49_V1522</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.150.49</td>
+    <td bgcolor="#FFFFCC">  H4034-53_V1501</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.210.127</td>
+    <td bgcolor="#FFFFCC">  HV4034-24R_V174</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.15</td>
+    <td bgcolor="#FFFFCC">  H4033-55_V1528</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.52</td>
+    <td bgcolor="#FFFFCC">  H4003-84_V1565</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.92</td>
+    <td bgcolor="#FFFFCC">  H4016-61_V1605</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.13</td>
+    <td bgcolor="#FFFFCC">  H4033-53_V1526</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.50.144</td>
+    <td bgcolor="#FFFFCC">  H4034-58_V166</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.11</td>
+    <td bgcolor="#FFFFCC">  H4033-51_V1524</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.37</td>
+    <td bgcolor="#FFFFCC">  H4034-70_V1550</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.190</td>
+    <td bgcolor="#FFFFCC">  HV4001-45_V552</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.18</td>
+    <td bgcolor="#FFFFCC">  H4033-58_V1531</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.19</td>
+    <td bgcolor="#FFFFCC">  H4031-72_V1532</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.238</td>
+    <td bgcolor="#FFFFCC">  HC4033-69_V609</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.48</td>
+    <td bgcolor="#FFFFCC">  H4033-68_V1561</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.8</td>
+    <td bgcolor="#FFFFCC">  H4033-48_V1521</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.239</td>
+    <td bgcolor="#FFFFCC">  HC4033-70_V610</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.50.163</td>
+    <td bgcolor="#FFFFCC">  H4033-57_V505</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.150.13</td>
+    <td bgcolor="#FFFFCC">  H4081-91_V765</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.75</td>
+    <td bgcolor="#FFFFCC">  H4003-84B_V1344</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.110.107</td>
+    <td bgcolor="#FFFFCC">  HV4033-93_V158</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.23</td>
+    <td bgcolor="#FFFFCC">  H4031-74_V1536</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.110.115</td>
+    <td bgcolor="#FFFFCC">  HV4080-73_V159</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.249</td>
+    <td bgcolor="#FFFFCC">  H4066-47_V620</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.21</td>
+    <td bgcolor="#FFFFCC">  H4033-59_V1534</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.22</td>
+    <td bgcolor="#FFFFCC">  H4033-60_V1535</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.105</td>
+    <td bgcolor="#FFFFCC">  H4034-52_V1374</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.16</td>
+    <td bgcolor="#FFFFCC">  H4033-56_V1529</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.51</td>
+    <td bgcolor="#FFFFCC">  H4003-83_V1564</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.121</td>
+    <td bgcolor="#FFFFCC">  H4033-92_V1390</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.10.154</td>
+    <td bgcolor="#FFFFCC">  H4033-90_V1432</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.150.57</td>
+    <td bgcolor="#FFFFCC">  H4031-46_V1509</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.150.33</td>
+    <td bgcolor="#FFFFCC">  H4081-92_V785</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.12</td>
+    <td bgcolor="#FFFFCC">  H4033-52_V1525</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.191</td>
+    <td bgcolor="#FFFFCC">  HC4002-38_V553</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">จ.เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.126.5.10</td>
+    <td bgcolor="#FFFFCC">  H4033-50_V1523</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.159</td>
+    <td bgcolor="#FFFFCC">  FF4033-53_V2058</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.200</td>
+    <td bgcolor="#FFFFCC">  FF4031-72_V2000</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.152</td>
+    <td bgcolor="#FFFFCC">  FF4066-47_V2052</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.167</td>
+    <td bgcolor="#FFFFCC">  FF4034-51_V2067</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.198</td>
+    <td bgcolor="#FFFFCC">  FF4033-59_V2098</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.118.50.14</td>
+    <td bgcolor="#FFFFCC">  FF4083-80_V2086</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.89</td>
+    <td bgcolor="#FFFFCC">  FF4033-70_V2089</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.201</td>
+    <td bgcolor="#FFFFCC">  FF4003-83_v2001</td>
+
+   
+  </tr>
+      <tr align="center">
+    <td bgcolor="#FFFFCC">ro5</td>
+    <td bgcolor="#FFFFCC">RON5-CMI</td>
+    <td bgcolor="#FFFFCC">เชียงใหม่</td>
+    <td bgcolor="#FFFFCC">10.138.3.153</td>
+    <td bgcolor="#FFFFCC">  FF4081-91_V2053</td>
+
+   
+  </tr>
+    
+  <tr>
+    <td height="8" colspan="5" bgcolor="#CCCC99"></td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
+
